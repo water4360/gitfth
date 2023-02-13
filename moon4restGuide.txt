@@ -322,3 +322,7 @@ git stash apply; git stash drop;
 git pop (= 위에 apply & drap을 한번에.)
 
 git stash는 최소한 버전관리(add)가 되고 있는 파일만 저장가능!!
+
+
+//원리:branch
+cd ~/Desktop/git/gitfth4에서 시작하자!
